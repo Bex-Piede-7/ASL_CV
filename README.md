@@ -1,3 +1,5 @@
-# ASL_CV
+# Coupling Computer Vision with ASL: Fingerspelling Handshape Identification and Interpreter
 
-This is a place to describe the project.
+According to the Americans with Disabilities Act (ADA), equal access to public services is required without additional charge. For members of the Deaf/Hard of Hearing (HoH) community, accessibility services are often an afterthought. Coupling ignorance with scarcity, either minimal interpreting services are provided or available on a regular basis. Developing an open source computer vision (CV) program which outputs accurate English translations given video input of American Sign Language (ASL) fingerspelling can greatly improve accessibility, ease of use, and increase utilization of interpretation services. 
+
+In conceiving of the program, it became clear that there are insufficient, and frankly inadequate, open source datasets available for CV training. Hence, our first step will be to collect handshape images from a large, diverse group of individuals. Using those images, we will train a computer model to recognize ASL handshapes. In further research, we will produce Python code to generalize the model to one which accepts video inputs with the ultimate goal of reversing the translation process with use of generative AI. 
