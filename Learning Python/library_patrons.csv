@@ -1,0 +1,13 @@
+PatronID,Name,Enrollment_Date,Membership_Tier,Age,Email,City
+P001,Alice Johnson,1/15/2022,Premium,35,alice.j@email.com,New York
+P002,Bob Williams,3/20/2021,Standard,28,bob.w@email.com,Los Angeles
+P003,Charlie Brown,7/1/2023,Basic,42,charlie.b@email.com,Chicago
+P004,Diana Miller,11/10/2022,Premium,55,diana.m@email.com,New York
+P005,Eve Davis,2/28/2023,Standard,22,eve.d@email.com,Los Angeles
+P006,Frank White,8/5/2021,Basic,60,frank.w@email.com,Houston
+P007,Grace Taylor,4/12/2022,Premium,30,grace.t@email.com,New York
+P008,Harry Wilson,9/25/2023,Standard,48,,Miami
+P009,Ivy Moore,6/18/2022,Basic,25,ivy.m@email.com,Chicago
+P010,Jack Green,12/1/2021,Premium,68,jack.g@email.com,Los Angeles
+P011,Karen Hall,1/5/2023,Standard,33,karen.h@email.com,Houston
+P012,Liam King,3/3/2022,Basic,40,,New York

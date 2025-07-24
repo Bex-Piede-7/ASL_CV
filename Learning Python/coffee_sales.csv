@@ -1,0 +1,22 @@
+Date,Product,Price,Quantity,Salesperson,Payment_Method,Customer_Rating
+1/1/2024,Latte,4.5,2,Alice,Credit Card,4
+1/1/2024,Espresso,3,1,Bob,Cash,5
+1/1/2024,Muffin,2.5,3,Alice,Credit Card,3
+1/2/2024,Cappuccino,4,2,Charlie,Debit Card,4
+1/2/2024,Croissant,3,1,Bob,Cash,5
+1/2/2024,Latte,4.5,1,Alice,Credit Card,4
+1/3/2024,Espresso,3,3,Charlie,Mobile Payment,3
+1/3/2024,Drip Coffee,2,2,Alice,Cash,4
+1/3/2024,Muffin,2.5,2,Bob,Credit Card,5
+1/4/2024,Latte,4.5,4,Charlie,Debit Card,5
+1/4/2024,Cappuccino,4,1,Alice,Credit Card,4
+1/4/2024,Croissant,3,2,Bob,Cash,3
+1/5/2024,Drip Coffee,2,3,Charlie,Mobile Payment,5
+1/5/2024,Muffin,2.5,1,Alice,Credit Card,4
+1/5/2024,Espresso,3,2,Bob,Cash,3
+1/6/2024,Latte,4.5,2,Alice,Credit Card,5
+1/6/2024,Cappuccino,4,3,Charlie,Debit Card,4
+1/6/2024,Croissant,3,1,Bob,Cash,3
+1/7/2024,Muffin,2.5,4,Alice,Credit Card,5
+1/7/2024,Espresso,3,2,Bob,Cash,4
+1/7/2024,Drip Coffee,2,3,Charlie,Mobile Payment,5
